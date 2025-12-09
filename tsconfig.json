@@ -23,12 +23,12 @@
     }
   },
   "include": [
-    "next-env.d.ts",
+    "next-env.d.js",
     "**/*.ts",
     "**/*.tsx",
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts",
     "**/*.mts"
-  ],
+, "next.config.js", "src/app/page.jsx", "src/app/layout.jsx", "proxy.js"  ],
   "exclude": ["node_modules"]
 }

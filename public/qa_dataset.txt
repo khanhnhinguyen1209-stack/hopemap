@@ -1,0 +1,416 @@
+ tôi cảm thấy buồn
+ Tôi hiểu, đôi khi cảm giác buồn đến bất ngờ. Bạn có muốn chia sẻ điều gì khiến bạn buồn không?
+
+ tôi cảm thấy rất buồn trong lòng
+ Mình luôn ở đây lắng nghe bạn. Điều gì làm bạn buồn nhất lúc này?
+
+ tôi cảm thấy hụt hẫng
+ Cảm giác hụt hẫng thật sự rất khó chịu. Bạn có muốn kể rõ hơn chuyện gì đã xảy ra không?
+
+ tôi cảm thấy cô đơn
+ Cô đơn không có nghĩa là bạn đang một mình. Bạn đã cố chia sẻ với ai chưa? Nếu chưa, mình sẵn sàng lắng nghe bạn bây giờ.
+
+ tôi buồn nhưng không biết lý do
+ Đôi khi cảm xúc đến mà không có nguyên nhân rõ ràng. Bạn thử mô tả tâm trạng hiện tại của mình xem sao nhé.
+
+ tôi thấy mọi chuyện thật tệ
+ Khi tất cả đều trở nên tệ, điều quan trọng là bạn đừng tự trách mình. Bạn muốn bắt đầu kể từ chuyện nào?
+
+ tôi cảm thấy mình vô dụng
+ Bạn không vô dụng đâu, có thể bạn đang quá khắt khe với bản thân. Bạn có thể kể điều gì khiến bạn nghĩ như vậy không?
+
+User: tôi bị điểm thấp
+ Điểm thấp không định nghĩa giá trị của bạn. Bạn có biết mình sai ở phần nào không? Mình có thể giúp bạn cải thiện kế hoạch học tập.
+
+User: tôi bị cha mẹ mắng vì điểm kém
+ Điều đó thật sự áp lực. Bạn có thể kể mình nghe ba mẹ đã nói gì không? Rồi mình cùng tìm hướng giải quyết nhé.
+
+User: tôi lo lắng vì kiểm tra sắp tới
+ Lo lắng trước kiểm tra là rất bình thường. Bạn đã chuẩn bị được bao nhiêu rồi?
+
+User: tôi stress vì học tập
+ Stress học tập là điều nhiều người gặp. Bạn đã ngủ đủ chưa? Mình có thể giúp bạn chia lại lịch học.
+
+User: tôi mất động lực học
+ Bình thường thôi, ai cũng có lúc chững lại. Điều gì khiến bạn cảm thấy nản nhất?
+
+User: tôi thất tình
+ Mất đi người mình thương rất đau. Bạn không cần phải mạnh mẽ ngay lập tức. Bạn muốn kể điều gì nhất?
+
+User: người yêu bỏ tôi
+ Điều đó chắc hẳn khiến bạn tổn thương nhiều. Bạn có muốn chia sẻ điều cuối cùng giữa hai bạn là gì không?
+
+User: tôi cảm thấy bị bỏ rơi
+ Cảm giác bị bỏ rơi rất khó chịu và dễ khiến mình nghĩ tiêu cực. Bạn cảm thấy nó bắt đầu từ khi nào?
+
+User: tôi nhớ người yêu cũ
+ Nhớ là phản ứng bình thường sau chia tay. Quan trọng là bạn không tự trách bản thân. Hai bạn chia tay trong hoàn cảnh nào?
+
+User: người yêu tôi lạnh nhạt
+ Thái độ thay đổi có thể phản ánh điều gì đó. Bạn thấy sự thay đổi này bắt đầu từ lúc nào?
+
+User: tôi đang yêu đơn phương
+ Yêu đơn phương vừa đẹp vừa đau. Bạn đã từng nghĩ đến việc nói ra cho họ biết chưa?
+
+User: tôi thất vọng về bản thân
+ Bạn đã cố gắng rất nhiều rồi. Đừng vội thất vọng. Điều gì khiến bạn cảm thấy như vậy?
+
+User: tôi bị bạn bè bỏ rơi
+ Điều đó thật khó chịu. Bạn bè quan trọng lắm. Bạn cảm thấy họ xa cách từ lúc nào?
+
+User: tôi bị phản bội
+ Bị phản bội khiến lòng tin tổn thương nặng nề. Bạn muốn kể chi tiết điều gì đã xảy ra không?
+
+User: tôi cảm thấy không ai hiểu tôi
+ Cảm giác ấy rất cô đơn. Nhưng mình đang ở đây để hiểu và lắng nghe bạn. Bạn muốn bắt đầu từ đâu?
+
+User: tôi lo lắng
+ Lo lắng là cảm xúc tự nhiên. Bạn thử hít sâu 3 lần và kể cho mình biết điều khiến bạn lo nhất nhé.
+
+User: tôi sợ thất bại
+ Sợ thất bại là dấu hiệu bạn đang rất quan tâm đến điều mình làm. Bạn đang lo cho việc gì nhất?
+
+User: tôi không biết mình phải làm gì trong cuộc sống
+Thật ra rất nhiều người cũng đang lạc hướng như bạn. Bạn có thể cho mình biết điều bạn quan tâm nhất hiện tại không?
+
+User: tôi cảm thấy tương lai mù mịt
+ Tương lai đôi khi mờ đi khi ta mệt mỏi. Bạn có muốn nói về điều khiến bạn thấy như vậy?
+
+User: tôi bị áp lực gia đình
+Assistant: Gia đình đôi khi kỳ vọng quá mức. Bạn có thể nói rõ hơn áp lực bạn đang gặp phải?
+
+User: tôi bị áp lực kinh tế
+Assistant: Khó khăn tài chính ảnh hưởng rất nhiều đến tinh thần. Tình hình hiện tại của bạn như thế nào rồi?
+
+User: tôi đang thất nghiệp
+Assistant: Thất nghiệp không phải dấu chấm hết. Bạn muốn chia sẻ về lĩnh vực bạn đang tìm việc không?
+
+User: tôi thấy mình không bằng bạn bè
+Assistant: So sánh bản thân có thể khiến bạn mệt hơn. Bạn có điểm mạnh gì mà bạn cảm thấy tự hào?
+
+User: tôi tự ti về bản thân
+Assistant: Tự ti khiến bạn nhìn nhận bản thân một cách tiêu cực hơn thực tế. Bạn nghĩ mình yếu ở điểm nào nhất?
+
+User: tôi bị body shaming
+Assistant: Điều đó thật tổn thương. Bạn không đáng phải nghe những lời như vậy. Người đó đã nói gì với bạn?
+
+User: tôi không được gia đình tôn trọng
+Assistant: Điều ấy chắc hẳn làm bạn đau lòng. Bạn có muốn kể về mối quan hệ trong gia đình hiện tại?
+
+User: tôi mất ngủ
+Assistant: Mất ngủ thường do stress. Bạn bị mất ngủ bao lâu rồi?
+
+User: tôi mệt mỏi
+Assistant: Bạn đã trải qua điều gì khiến bạn mệt như vậy? Mình lắng nghe đây.
+
+User: tôi cảm thấy bất lực
+Assistant: Khi cảm giác bất lực xuất hiện, hãy dừng lại một chút. Bạn có thể chia sẻ điều khiến bạn cảm thấy vậy không?
+
+User: tôi bị bạn thân phản bội
+Assistant: Một người bạn thân phản bội là cú sốc lớn. Chuyện xảy ra như thế nào?
+
+User: người yêu không còn quan tâm tôi như trước
+Assistant: Sự thay đổi trong tình yêu thường có nguyên nhân. Bạn đã thử nói chuyện thẳng thắn với họ chưa?
+
+User: tôi không biết mình muốn gì
+Assistant: Hoang mang là bình thường khi bạn đang ở giai đoạn tìm hiểu bản thân. Điều gì làm bạn vui nhất gần đây?
+
+User: tôi thấy mình béo quá
+Assistant: Mỗi cơ thể đều đẹp theo cách riêng. Bạn không cần phải hoàn hảo để được yêu thương. Bạn đang muốn thay đổi điều gì?
+
+User: tôi không có bạn
+Assistant: Không có nhiều bạn không nghĩa là bạn tệ. Bạn thích kiểu người bạn như thế nào?
+
+User: tôi cảm thấy cuộc sống vô nghĩa
+Assistant: Những lúc mệt mỏi, cảm giác ấy sẽ xuất hiện. Nhưng mình tin bạn vẫn còn những điều quý giá. Bạn kể mình nghe điều nhỏ nhất bạn thấy vui gần đây nhé.
+
+User: tôi sợ giao tiếp
+Assistant: Sợ giao tiếp là vấn đề nhiều người gặp. Bạn có biết lúc nào bạn cảm thấy sợ nhất không?
+
+User: tôi bị bắt nạt
+Assistant: Đó là chuyện không bao giờ chấp nhận được. Bạn có muốn kể ai đã làm gì với bạn không?
+
+User: tôi bị stress vì công việc
+Assistant: Công việc áp lực là chuyện phổ biến. Điều nào làm bạn stress nhất: thời gian, sếp, hay đồng nghiệp?
+
+User: tôi thấy mình không thể cố thêm nữa
+Assistant: Mình hiểu cảm giác ấy rất mệt. Bạn không cần phải cố gắng một mình. Bạn đang gặp khó khăn gì nhất?
+
+User: tôi vừa chia tay
+Assistant: Những ngày đầu sau chia tay rất đau. Bạn có muốn kể bạn đang nhớ điều gì nhất về người đó?
+
+User: tôi bị trầm cảm nhẹ
+Assistant: Cảm ơn bạn đã dũng cảm chia sẻ điều này. Bạn đã từng đi khám hoặc nói chuyện với chuyên gia chưa?
+
+User: tôi cảm thấy bị lợi dụng
+Assistant: Bị lợi dụng khiến bạn mất niềm tin. Ai là người đã khiến bạn cảm thấy như vậy?
+
+User: tôi muốn một lời khuyên
+Assistant: Được thôi. Bạn muốn lời khuyên về học tập, tình cảm, sức khỏe tâm lý hay điều khác?
+
+User: tôi bị điểm thấp
+Assistant: Mình hiểu cảm giác thất vọng khi kết quả không như mong đợi. Nhưng một điểm số không quyết định giá trị của bạn. Bạn có muốn cùng mình xem nguyên nhân và cách cải thiện không?
+
+User: tôi cảm thấy bị bỏ rơi
+Assistant: Cảm giác đó rất đau. Bạn không đáng bị bỏ rơi đâu. Điều gì đã xảy ra khiến bạn cảm thấy như vậy?
+
+User: người yêu không quan tâm tôi nữa
+Assistant: Điều này chắc hẳn khiến bạn buồn lắm. Bạn đã thử nói chuyện thẳng thắn với người ấy chưa? Giao tiếp rõ ràng đôi khi giúp tháo gỡ hiểu lầm.
+
+User: tôi buồn vì cha mẹ kỳ vọng quá nhiều
+Assistant: Áp lực từ gia đình rất nặng nề. Bạn có thể chia sẻ xem kỳ vọng đó là gì và bạn cảm thấy thế nào khi đối mặt với chúng không?
+
+User: tôi bị bạn thân phản bội
+Assistant: Phản bội từ người thân thiết làm đau lòng lắm. Bạn muốn kể mình nghe chuyện gì đã xảy ra không?
+
+User: tôi cảm thấy bản thân vô dụng
+Assistant: Bạn không vô dụng đâu, đôi khi cảm xúc tiêu cực khiến ta nhìn sai về chính mình. Điều gì khiến bạn nghĩ vậy?
+
+User: tôi không có động lực để học
+Assistant: Thiếu động lực là chuyện rất bình thường. Bạn muốn thử đặt mục tiêu nhỏ dễ đạt để bắt đầu lại không?
+
+User: tôi nhớ người yêu cũ
+Assistant: Nhớ người cũ là chuyện dễ hiểu. Mối quan hệ đó có điều gì khiến bạn tiếc nuối nhất?
+
+User: tôi cảm thấy cô đơn
+Assistant: Cô đơn là cảm xúc chung của rất nhiều người. Bạn muốn làm gì bây giờ để cảm thấy tốt hơn một chút?
+
+User: tôi bị mọi người so sánh
+Assistant: Bị so sánh thật dễ khiến ta mất tự tin. Bạn có muốn cùng mình tìm cách bảo vệ cảm xúc của bạn trước những lời so sánh không?
+
+User: tôi cảm thấy không ai hiểu tôi
+Assistant: Mình đang ở đây để hiểu và lắng nghe bạn. Bạn muốn chia sẻ điều khiến bạn bị hiểu lầm nhất không?
+
+User: tôi bị bạn bè xa lánh
+Assistant: Mình rất tiếc khi bạn trải qua điều đó. Bạn có biết lý do vì sao mọi người lại cư xử như vậy không?
+
+User: tôi cảm thấy thất bại
+Assistant: Thất bại chỉ là một bước trên hành trình học hỏi. Điều gì làm bạn nghĩ đó là thất bại?
+
+User: tôi không giỏi bằng người khác
+Assistant: Mỗi người đều có tốc độ và khả năng riêng. Bạn có muốn tìm điểm mạnh của mình để tự tin hơn không?
+
+User: tôi buồn vì gia đình cãi nhau
+Assistant: Không khí căng thẳng trong gia đình ảnh hưởng rất lớn đến cảm xúc. Điều đó xảy ra thường xuyên không?
+
+User: tôi cảm thấy mệt mỏi vì công việc
+Assistant: Công việc áp lực khiến ai cũng kiệt sức. Bạn có đang phải làm việc quá nhiều không?
+
+User: tôi bị người khác nói xấu
+Assistant: Những lời không đúng về mình thật khó chịu. Bạn muốn tâm sự rõ hơn để mình hỗ trợ không?
+
+User: tôi không muốn làm gì cả
+Assistant: Những lúc như vậy hãy cho phép bản thân nghỉ ngơi. Bạn có biết nguyên nhân khiến bạn mất năng lượng không?
+
+User: tôi cảm thấy lo ngại khi gặp người lạ
+Assistant: Lo ngại khi giao tiếp là chuyện phổ biến. Bạn có muốn mình gợi ý vài cách giúp bạn tự tin hơn không?
+
+User: tôi không tự tin về ngoại hình
+Assistant: Mình hiểu cảm giác đó. Nhưng bạn có nhiều giá trị hơn ngoại hình rất nhiều. Điều khiến bạn lo nhất về ngoại hình là gì?
+
+User: tôi bị người yêu lạnh nhạt
+Assistant: Điều này dễ khiến bạn bất an. Bạn muốn thử cách nói chuyện để hiểu nguyên nhân không?
+
+User: tôi nhớ nhà
+Assistant: Nhớ nhà là điều rất tự nhiên, đặc biệt khi bạn xa gia đình. Điều gì làm bạn nhớ nhất?
+
+User: tôi căng thẳng vì thi cử
+Assistant: Thi cử luôn tạo áp lực lớn. Bạn đã chuẩn bị tới đâu rồi? Mình có thể giúp bạn sắp lịch học nhé.
+
+User: tôi lo vì tương lai
+Assistant: Ai cũng từng cảm thấy vậy. Tương lai có thể đáng sợ vì nó chưa xảy ra. Bạn đang lo nhất về điều gì?
+
+User: tôi bị mất ngủ
+Assistant: Mất ngủ khiến tinh thần mệt mỏi. Bạn có đang suy nghĩ quá nhiều trước khi ngủ không?
+
+User: tôi không có bạn
+Assistant: Bạn không cô đơn đâu, và mình đang ở đây cùng bạn. Bạn thích kiểu người bạn như thế nào?
+
+User: tôi suy nghĩ quá nhiều
+Assistant: Overthinking là điều rất thường gặp. Bạn muốn thử một vài kỹ thuật giúp tâm trí bình tĩnh hơn không?
+
+User: tôi cảm thấy bị xem thường
+Assistant: Điều đó chắc khiến bạn tổn thương. Bạn có muốn kể về tình huống đó không?
+
+User: tôi cảm thấy cuộc sống vô nghĩa
+Assistant: Khi cảm xúc chạm đáy, mọi thứ đều trở nên nặng nề. Mình luôn sẵn sàng lắng nghe, bạn có muốn chia sẻ điều khiến bạn cảm thấy vậy không?
+
+User: tôi buồn vì không ai tin tôi
+Assistant: Sự thiếu tin tưởng làm ta hụt hẫng. Điều gì khiến bạn cảm thấy bị nghi ngờ?
+
+User: tôi sợ thất bại
+Assistant: Sợ thất bại là cảm xúc rất phổ biến. Bạn đang đứng trước thử thách nào khiến bạn lo lắng nhất?
+
+User: tôi bị stress vì tiền bạc
+Assistant: Tài chính là vấn đề nhạy cảm và gây áp lực mạnh. Bạn có muốn chia nhỏ các vấn đề để dễ giải quyết hơn không?
+
+User: tôi cảm thấy áp lực vì người yêu quá ghen
+Assistant: Ghen tuông quá mức có thể khiến bạn mệt mỏi. Bạn đã thử nói rõ cảm xúc của mình với người ấy chưa?
+
+User: tôi cảm thấy bị kiểm soát
+Assistant: Bị kiểm soát khiến ta dễ ngột ngạt. Bạn muốn chia sẻ rõ hơn để mình giúp bạn không?
+
+User: tôi muốn khóc nhưng không khóc được
+Assistant: Đôi lúc cảm xúc bị dồn nén quá mức. Bạn đang giữ lại điều gì trong lòng?
+
+User: tôi cảm thấy bất lực
+Assistant: Cảm giác này không dễ vượt qua một mình. Bạn muốn nói về điều khiến bạn thấy vậy không?
+
+User: tôi bị người khác lợi dụng
+Assistant: Mình rất tiếc khi bạn gặp chuyện đó. Điều gì khiến bạn nhận ra họ lợi dụng bạn?
+
+User: tôi không có mục tiêu sống
+Assistant: Không phải ai cũng tìm được mục tiêu ngay lập tức. Bạn muốn mình gợi ý từng bước để khám phá điều bạn muốn không?
+
+User: tôi cảm thấy tổn thương vì lời nói của người khác
+Assistant: Lời nói có thể gây đau hơn cả hành động. Bạn muốn chia sẻ cụ thể để mình giúp bạn chữa lành cảm xúc không?
+
+User: tôi thiếu tiền
+Assistant: Khó khăn tài chính có thể khiến bạn lo lắng nhiều. Bạn có muốn cùng mình xem cách quản lý chi tiêu không?
+
+User: tôi cảm thấy mất phương hướng
+Assistant: Mình hiểu cảm giác đó. Khi mọi thứ mơ hồ, bạn có thể bắt đầu bằng một mục tiêu nhỏ. Điều bạn muốn làm ngay bây giờ là gì?
+
+User: tôi cãi nhau với người yêu
+Assistant: Mâu thuẫn là chuyện bình thường trong tình yêu. Bạn muốn kể mình nghe nguyên nhân không?
+
+User: tôi bị áp lực từ mạng xã hội
+Assistant: Mạng xã hội đôi khi khiến ta so sánh và mệt mỏi. Bạn có muốn thử detox 1-2 ngày không?
+
+User: tôi cảm thấy bị thay thế
+Assistant: Cảm giác bị thay thế thật đau. Bạn có muốn nói rõ hơn chuyện gì khiến bạn nghĩ vậy không?
+
+User: tôi cảm thấy chán nản mỗi sáng thức dậy
+Assistant: Có lẽ bạn đang bị quá tải tinh thần. Buổi sáng điều gì làm bạn mệt nhất?
+
+User: tôi cảm thấy không ai cần tôi
+Assistant: Cảm giác đó rất nặng nề, nhưng nó không phản ánh sự thật. Thường khi ta buồn, tâm trí phóng đại mọi thứ. Bạn có thể kể điều gì làm bạn nghĩ vậy không?
+
+User: tôi sợ mất người yêu
+Assistant: Sợ mất đi điều quý giá là bình thường. Bạn có thể trò chuyện nhẹ nhàng với người ấy về nỗi lo này. Giao tiếp chân thành sẽ giúp bạn yên lòng hơn.
+
+User: tôi bị người yêu hiểu lầm
+Assistant: Hiểu lầm rất dễ làm tổn thương. Bạn đã có cơ hội giải thích chưa? Một cuộc trò chuyện bình tĩnh thường giải quyết được rất nhiều.
+
+User: tôi muốn yêu bản thân hơn nhưng không biết bắt đầu
+Assistant: Bạn có thể bắt đầu bằng những điều nhỏ như nghỉ ngơi đúng lúc, đặt ranh giới, hoặc nói những câu tử tế với chính mình. Bạn muốn thử điều nào trước?
+
+User: tôi hay nổi nóng
+Assistant: Nóng giận thường xuất phát từ căng thẳng tích tụ. Khi bạn thấy sắp bực, thử hít sâu 5 giây và thở ra 7 giây nhé. Nó giúp giảm phản ứng cảm xúc.
+
+User: tôi hay buồn không rõ lý do
+Assistant: Những nỗi buồn mơ hồ thường báo hiệu bạn cần nghỉ ngơi hoặc chia sẻ với ai đó. Có điều gì gần đây làm bạn lo lắng không?
+
+User: tôi cảm thấy bị cô lập
+Assistant: Cảm giác cô lập rất khó chịu. Bạn có ai mà bạn tin tưởng để chia sẻ không? Kết nối nhỏ cũng tạo khác biệt lớn.
+
+User: tôi cảm thấy ghen
+Assistant: Ghen là cảm xúc tự nhiên nhưng cũng rất mệt. Bạn có thể thử nói với người yêu về điều khiến bạn bất an thay vì giữ trong lòng.
+
+User: tôi thất vọng về chính mình
+Assistant: Sự thất vọng cho thấy bạn mong muốn tốt hơn — điều đó là tích cực. Bạn muốn chỉnh sửa điều gì trước tiên?
+
+User: tôi không kiểm soát được cảm xúc
+Assistant: Kiểm soát cảm xúc là kỹ năng cần luyện tập. Bạn có thể thử ghi lại cảm xúc mỗi ngày để hiểu rõ trigger của mình hơn.
+
+User: tôi hay tự trách mình
+Assistant: Tự trách khiến bạn kiệt sức. Khi bắt đầu trách bản thân, hãy hỏi: “Nếu người khác gặp chuyện này, mình sẽ nói gì với họ?”. Hãy tử tế với chính mình nữa nhé.
+
+User: tôi cảm thấy bị xa cách với mọi người
+Assistant: Khoảng cách cảm xúc không có nghĩa bạn không được yêu thương. Có ai gần đây bạn muốn nói chuyện nhưng ngại không?
+
+User: tôi thấy cuộc sống quá khó khăn
+Assistant: Bạn đã đi được đến đây là rất mạnh mẽ rồi. Bạn có thể kể cho mình khó khăn lớn nhất hiện tại không? Mình sẽ giúp bạn từng bước.
+
+User: tôi không biết nên tâm sự với ai
+Assistant: Bạn có thể nói với mình bất cứ điều gì. Đôi khi chỉ cần một người lắng nghe cũng giúp bạn nhẹ lòng.
+
+User: tôi không còn hứng thú với thứ mình từng thích
+Assistant: Điều này có thể đến từ việc bạn bị quá tải. Thử nghỉ ngơi một chút và quay lại từng chút một nhé.
+
+User: tôi hay né tránh vấn đề
+Assistant: Né tránh đôi khi giúp ta cảm thấy an toàn trước mắt, nhưng lâu dài làm mọi thứ khó hơn. Bạn có muốn thử đối mặt với vấn đề nhỏ nhất trước không?
+
+User: tôi chịu áp lực quá nhiều từ người khác
+Assistant: Ranh giới cá nhân rất quan trọng. Bạn có thể nói với họ nhẹ nhàng rằng bạn cần thời gian và không gian riêng.
+
+User: tôi cảm thấy mình không đủ tốt
+Assistant: “Không đủ tốt” là cảm giác phổ biến nhưng không phản ánh giá trị thật của bạn. Bạn đã cố gắng rất nhiều rồi.
+
+User: tôi sợ thay đổi
+Assistant: Thay đổi luôn đi kèm lo lắng. Nhưng đôi khi sự thay đổi lại mở ra cơ hội mới. Bạn đang đối mặt với sự thay đổi nào?
+
+User: tôi không biết phải bắt đầu từ đâu
+Assistant: Hãy bắt đầu từ việc nhỏ nhất. Mỗi bước nhỏ đều là tiến bộ. Bạn đang muốn cải thiện điều gì?
+
+User: tôi bị chê bai nhiều quá
+Assistant: Lời chê khiến ta dễ tổn thương. Nhưng nhớ rằng quan điểm của người khác không định nghĩa bạn. Bạn nghĩ điều nào họ nói là không đúng nhất?
+
+User: tôi bị người thân gây áp lực
+Assistant: Gia đình thương nhưng đôi khi vô tình làm ta mệt. Bạn có thể nói chuyện nhẹ nhàng để họ hiểu cảm xúc của bạn.
+
+User: tôi cảm thấy bị người yêu xem nhẹ
+Assistant: Điều này chắc khiến bạn buồn nhiều. Bạn muốn thử một cuộc trò chuyện chân thành với người ấy về cảm xúc của mình không?
+
+User: tôi bị bỏ mặc trong cuộc nói chuyện
+Assistant: Điều đó khiến bạn cảm thấy không được tôn trọng. Bạn muốn kể tình huống đó cụ thể hơn để mình hỗ trợ không?
+
+User: tôi lo thất nghiệp
+Assistant: Lo về công việc là bình thường. Bạn muốn mình hỗ trợ bạn chuẩn bị CV hay tìm hướng nghề nghiệp không?
+
+User: tôi không biết cách giải tỏa stress
+Assistant: Bạn có thể thử đi bộ 10 phút, hít thở sâu, hoặc viết nhật ký nhanh. Phương pháp nào bạn muốn thử?
+
+User: tôi bị ám ảnh bởi sai lầm cũ
+Assistant: Sai lầm là một phần của trưởng thành. Bạn không phải là người của quá khứ. Điều gì bạn muốn buông bỏ nhất?
+
+User: tôi thấy mình không bằng bạn bè
+Assistant: So sánh làm bạn mất năng lượng của chính mình. Mỗi người có hành trình riêng. Hành trình của bạn có giá trị theo cách của riêng nó.
+
+User: tôi bị nói là vô tâm
+Assistant: Có thể bạn chỉ đang quá mệt để quan tâm như bình thường. Bạn có muốn chia sẻ xem chuyện đó xảy ra như thế nào không?
+
+User: tôi khó tập trung
+Assistant: Có thể bạn đang stress hoặc thiếu ngủ. Bạn muốn mình gợi ý vài kỹ thuật tăng tập trung không?
+
+User: tôi dễ bị tổn thương
+Assistant: Nhạy cảm không phải là yếu đuối — nó cho thấy bạn quan tâm thật lòng. Điều gì làm bạn tổn thương gần đây?
+
+User: tôi cảm thấy mình không được tôn trọng
+Assistant: Bạn xứng đáng được đối xử tử tế. Bạn có muốn tìm cách đặt ranh giới hiệu quả không?
+
+User: tôi buồn mà không biết vì sao
+Assistant: Đôi khi tâm trí mang nhiều thứ chưa giải quyết. Hãy thử kể xem dạo này có điều gì xảy ra khiến bạn suy nghĩ không?
+
+User: tôi không muốn giao tiếp với ai
+Assistant: Có lẽ bạn cần một chút thời gian cho bản thân. Nghỉ ngơi không phải là xấu đâu. Khi nào bạn sẵn sàng chia sẻ thêm, mình luôn ở đây.
+
+User: tôi cảm thấy bất an
+Assistant: Bất an là dấu hiệu bạn cần sự trấn an hoặc rõ ràng. Bạn đang lo nhất về điều gì?
+
+User: tôi cảm thấy mình không xứng đáng
+Assistant: Bạn xứng đáng với yêu thương và sự tôn trọng. Cảm giác này thường đến khi bạn tự ép mình quá nhiều. Điều gì kích hoạt cảm giác đó?
+
+User: tôi bị cuốn vào quá nhiều lo âu
+Assistant: Hãy thử ghi ra 3 điều bạn có thể kiểm soát, và buông những điều ngoài tầm tay. Nó sẽ giúp tâm trí bạn nhẹ hơn.
+
+User: tôi đang mất phương hướng tình cảm
+ Tình cảm rất phức tạp. Điều quan trọng là bạn hiểu rõ mong muốn của mình. Người ấy đã khiến bạn bối rối như thế nào?
+
+User: tôi muốn quên một người
+ Quên không dễ, nhưng bạn có thể bắt đầu bằng việc giảm tiếp xúc, chăm sóc bản thân, và tập trung vào những điều mang lại niềm vui. Bạn đã thử bước nào rồi?
+
+User: tôi bị tổn thương vì lời nói của cha mẹ
+ Lời nói từ người thân tác động mạnh lắm. Bạn có muốn kể lại để mình giúp bạn gỡ rối cảm xúc?
+
+User: tôi hay suy nghĩ tiêu cực
+ Suy nghĩ tiêu cực thường xuất hiện khi bạn mệt. Bạn có thể thử thay thế một suy nghĩ tiêu cực bằng một câu nhẹ nhàng hơn.
+
+User: tôi thấy người yêu thay đổi
+Sự thay đổi khiến ta lo. Bạn muốn nói cụ thể xem người ấy thay đổi điều gì?
+
+User: tôi không biết yêu thế nào cho đúng
+ Không ai hoàn hảo trong tình yêu. Điều quan trọng là chân thành, lắng nghe và tôn trọng. Bạn đang băn khoăn về điều gì nhất?
+
+User: tôi bị chỉ trích quá nhiều
+ Chỉ trích quá mức khiến bạn kiệt sức. Bạn có thể thử đặt giới hạn về những lời nói bạn muốn tiếp nhận.
