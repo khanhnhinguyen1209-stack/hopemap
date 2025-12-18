@@ -156,13 +156,36 @@ export default function MapComponent() {
 }
 
 function Legend({ color, text }) {
+  const styles = {
+    red: {
+      bg: "bg-red-50",
+      dot: "bg-red-500",
+      text: "text-red-700",
+    },
+    yellow: {
+      bg: "bg-yellow-50",
+      dot: "bg-yellow-400",
+      text: "text-yellow-700",
+    },
+    green: {
+      bg: "bg-green-50",
+      dot: "bg-green-500",
+      text: "text-green-700",
+    },
+  };
+
+  const s = styles[color];
+
   return (
-    <div className="flex items-center justify-center bg-gray-50 rounded-xl p-3">
-      <div
-        className="w-4 h-4 rounded-full mr-3"
-        style={{ backgroundColor: color }}
+    <div
+      className={`flex items-center justify-center rounded-2xl px-6 py-4 ${s.bg}`}
+    >
+      <span
+        className={`w-3 h-3 rounded-full mr-3 ${s.dot}`}
       />
-      <span className="font-medium">{text}</span>
+      <span className={`font-semibold ${s.text}`}>
+        {text}
+      </span>
     </div>
   );
 }
