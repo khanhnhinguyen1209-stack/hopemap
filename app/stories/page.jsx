@@ -1,5 +1,6 @@
-import StoriesSection from "@/components/stories/StoriesSection";
+"use client";
+import StoriesPage from "./StoriesPage";
 
-export default function StoriesPage() {
-  return <StoriesSection />;
+export default function StoriesSection() {
+  return <StoriesPage />;
 }
