@@ -158,26 +158,23 @@ const loadInitialMarkers = async () => {
   /* ===== INIT MAP ===== */
 
   useEffect(() => {
-    if (!mapContainerRef.current) return;
-    if (mapRef.current) return;
+  if (mapRef.current) return;
 
+  mapRef.current = L.map("main-map").setView(
+    [10.8231, 106.6297],
+    12
+  ),
 
-    mapRef.current = L.map(mapContainerRef.current).setView(
+  L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    attribution: "© OpenStreetMap contributors",
+  }).addTo(mapRef.current);
 
-    mapRef.current = L.map("main-map").setView(
+  markerLayerRef.current = L.layerGroup().addTo(mapRef.current);
 
-      [10.8231, 106.6297],
-      12
-    );
+  loadInitialMarkers();
+  setupRealtime();
+}, []);
 
-    L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
-      attribution: "© OpenStreetMap contributors",
-    }).addTo(mapRef.current);
-
-    markerLayerRef.current = L.layerGroup().addTo(mapRef.current);
-
-    loadInitialMarkers();
-    setupRealtime();
 
     return () => {
       mapRef.current?.remove();
