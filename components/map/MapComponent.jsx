@@ -235,7 +235,7 @@ const loadInitialMarkers = async () => {
       />
     </section>
   );
-}
+
 
 /* ===== LEGEND ===== */
 function Legend({ color, text }) {
