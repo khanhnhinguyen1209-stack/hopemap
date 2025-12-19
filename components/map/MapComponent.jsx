@@ -180,7 +180,7 @@ const loadInitialMarkers = async () => {
       mapRef.current?.remove();
       mapRef.current = null;
     };
-  }, []);
+ 
 
   /* ===== POPUP ===== */
   const renderPopup = (data) => `
