@@ -99,31 +99,29 @@ export default function MapComponent() {
 
 
   /* ===== LOAD DATA ===== */
-  const loadInitialMarkers = async () => {
-    markerLayerRef.current.clearLayers();
+const loadInitialMarkers = async () => {
+  if (!markerLayerRef.current) return;
 
-    const { data: requests } = await supabase
-      .from("support_requests")
-      .select("*");
+  markerLayerRef.current.clearLayers();
 
-    const { data: volunteers } = await supabase
-      .from("volunteers")
-      .select("*");
+  const { data: requests } = await supabase
+    .from("support_requests")
+    .select("*");
 
-    requests?.forEach(r =>
-      addMarker({ ...r, __source: "request" })
-    );
+  const { data: volunteers } = await supabase
+    .from("volunteers")
+    .select("*");
 
-    volunteers?.forEach(v =>
+  // 🔴 REQUEST (đỏ / vàng)
+  requests?.forEach((r) => {
+    addMarker({ ...r, __source: "request" });
+  });
 
-    requests?.forEach((r) =>
-      addMarker({ ...r, __source: "request" })
-    ),
-
-    volunteers?.forEach((v) =>
-      addMarker({ ...v, __source: "volunteer" })
-    ),
-  };
+  // 🟢 VOLUNTEER
+  volunteers?.forEach((v) => {
+    addMarker({ ...v, __source: "volunteer" });
+  });
+};
 
   /* ===== REALTIME ===== */
   const setupRealtime = () => {
