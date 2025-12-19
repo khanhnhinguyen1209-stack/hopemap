@@ -156,7 +156,7 @@ const loadInitialMarkers = async () => {
   /* ===== INIT MAP (CHUẨN NEXT.JS) ===== */
 
   /* ===== INIT MAP ===== */
->>>>>>> 77e18f6c883f2a83aec5d1050ba37aab30d4a487
+
   useEffect(() => {
     if (!mapContainerRef.current) return;
     if (mapRef.current) return;
